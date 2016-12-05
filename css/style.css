@@ -20,6 +20,8 @@
   background: #466368;
   background: linear-gradient(#135e9e, #0C112E);
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:100%;
 
 }
 
